@@ -25,7 +25,7 @@ referencia multiméter TCP socketen csatlakozik.
 | Keysight 34465A DMM | TCP SCPI Sockets, port 5025 |
 
 A program a Keysight 34465A multiméterrel kommunikál — a DMM vezérlőosztálya a
-**DMM_34465A** projektből származik.
+**[DMM_34465A](https://github.com/kvez/DMM_34465A)** projektből származik.
 
 ## Követelmények
 
